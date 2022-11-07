@@ -11,7 +11,7 @@ export default function footer() {
               <img src={logo} class="mr-3 h-12" alt="Alba Logo" />
             </a>
             <p className="mt-3 text-base font-light text-gray-500 sm:mx-auto sm:mt-5 sm:max-w-8xl sm:text-lg md:mt-5 md:text-xl lg:mx-0">
-              Albatech acts as a corporate partner to help digitize their
+              Kincir Tech acts as a corporate partner to help digitize their
               business to accelerate trends in remote work.
             </p>
           </div>
@@ -55,18 +55,18 @@ export default function footer() {
               <ul class="text-gray-600">
                 <li class="mb-4">
                   <p>
-                    The Prominence Blok 38D No.25 Jl. Jalur Sutera Barat, Alam
-                    Sutera. Kota Tangerang, Banten 15143
+                    Alam Sushi Blok 8D No.22 Jl. Jalur Sushi Timur, Alam
+                    Sushi. Kota Sumatera, Medan 15143
                   </p>
                 </li>
                 <li>
                   <p>
-                    <b>P</b>: +62 81 1889 3383
+                    <b>P</b>: +62 81 1223 4473
                   </p>
                 </li>
                 <li>
                   <p>
-                    <b>E</b>: info@albatech.id
+                    <b>E</b>: info@kincirtech.id
                   </p>
                 </li>
               </ul>
@@ -76,7 +76,7 @@ export default function footer() {
         <hr class="my-6 border-gray-500 sm:mx-auto lg:my-8" />
         <div class="sm:flex sm:items-center sm:justify-between">
           <span class="text-sm text-gray-500 sm:text-center">
-            ©PT. Alba Digital Teknologi 2021 | All Rights Reserved
+            ©PT. Kincir Digital Teknologi 2022 | All Rights Reserved
           </span>
           <span class="text-sm text-gray-500 sm:text-center">
             Privacy policy | Terms of service
