@@ -20,7 +20,7 @@ export default function portfolio() {
             </div>
             <p class="text-gray-400 sm:text-medium">Mobile apps</p>
             <h3 class="mb-2 text-xl font-bold text-yellow-300">
-              ILIOS app (B2B E-commerce)
+              Indexing app (B2B E-commerce)
             </h3>
             <p class="text-gray-500">
               Has a unique selling piont where not all companies offer
@@ -37,7 +37,7 @@ export default function portfolio() {
               Home and Living
             </h3>
             <p class="text-gray-500">
-              Albatech helps in creating a website catalog to show brand
+            Kincir Tech helps in creating a website catalog to show brand
               identity and information in accordance with vision and mission of
               Home and Living.
             </p>
@@ -48,9 +48,9 @@ export default function portfolio() {
               <img class="rounded-lg" src={hippo} alt="" />
             </div>
             <p class="text-gray-400 sm:text-medium">Website development</p>
-            <h3 class="mb-2 text-xl font-bold text-yellow-300">HIPPO</h3>
+            <h3 class="mb-2 text-xl font-bold text-yellow-300">HyperStone</h3>
             <p class="text-gray-500">
-              Albatech help to create e-commerce and company profile for Hippo's
+              Kincir Tech help to create e-commerce and company profile for HyperStone's
               Website with realtime transaction and integration with Payment
               Gateway to accept multi payment.
             </p>
