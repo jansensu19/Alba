@@ -7,7 +7,7 @@ export default function consultation() {
             Is software important for your business?
           </h2>
           <h1 class="mx-auto mb-8 max-w-2xl font-bold text-gray-900 md:mb-12 sm:text-6xl">
-            Build it with Kincir Tech
+            Build it with Albatech
           </h1>
           <button class="py-3 px-3 w-48 text-sm font-bold text-center text-black rounded-full border cursor-pointer bg-primary-700 border-black sm:rounded-full hover:bg-yellow-200 focus:ring-4 focus:ring-primary-300">
             Consultation Now

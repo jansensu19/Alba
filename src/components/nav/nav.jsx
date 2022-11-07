@@ -28,10 +28,10 @@ export default function nav() {
                     
                     {/* logo */}
                     <a href="#">
-                      <span className="sr-only">Kincir Tech</span>
+                      <span className="sr-only">Alba</span>
                       <img
                         alt="Your Company"
-                        className="h-10 w-auto sm:h-26"
+                        className="h-10 w-auto sm:h-28"
                         src={logo}
                       />
                     </a>
